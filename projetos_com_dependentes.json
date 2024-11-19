@@ -1,0 +1,52 @@
+[
+    {
+        "id_projeto": 10,
+        "nome_projeto": "Gestão de Estoque",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 9,
+        "nome_projeto": "Rebranding",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 8,
+        "nome_projeto": "Análise de Dados",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 7,
+        "nome_projeto": "E-commerce",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 6,
+        "nome_projeto": "Software de Gestão",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 5,
+        "nome_projeto": "Automação Financeira",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 4,
+        "nome_projeto": "Campanha de Marketing",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 3,
+        "nome_projeto": "App de Delivery",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 2,
+        "nome_projeto": "Site Institucional",
+        "numero_dependentes": 1
+    },
+    {
+        "id_projeto": 1,
+        "nome_projeto": "Sistema de RH",
+        "numero_dependentes": 1
+    }
+]
